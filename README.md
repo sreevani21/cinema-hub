@@ -1,3 +1,3 @@
 # cinema-hub
-athour sreevani
+ sreevani
 this is my first repository
